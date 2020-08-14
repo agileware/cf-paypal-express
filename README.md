@@ -1,4 +1,4 @@
-A payment processor for [Caldera Forms](http://calderaforms.com/) using the [PayPal Express](https://www.paypal.com/mu/webapps/mpp/express-checkout).
+A payment processor for [Caldera Forms](http://calderaforms.com/) using the [PayPal Express API](https://www.paypal.com/mu/webapps/mpp/express-checkout).
 
 https://calderaforms.com/downloads/caldera-forms-paypal-express-add-on/
 
